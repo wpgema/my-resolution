@@ -1,1 +1,6 @@
 -saya ingin menambah skill dibidang web desain
+a. saya akan mempelajari html 5
+b. css dan css 3
+c. javascript dasar
+d. Dom Javascript
+e. Javascript lanjutan
