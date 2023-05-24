@@ -6,3 +6,4 @@ d. Dom Javascript
 e. Javascript lanjutan
 f. Menguasai tools
   - visual studio code
+  - sublime text
