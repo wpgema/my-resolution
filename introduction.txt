@@ -3,6 +3,7 @@ a. saya akan mempelajari html 5
 b. css dan css 3
 c. javascript dasar
 d. Dom Javascript
-e. Menguasai tools
-  -visual studio code
-  -atom
+e. Javascript lanjutan
+f. Menguasai tools
+  - visual studio code
+  - sublime text
